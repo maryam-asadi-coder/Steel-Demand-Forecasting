@@ -13,6 +13,9 @@
 1. نصب کتابخانه‌ها:
 ```bash
 pip install -r requirements.txt
+
+
+
 2. اجرای داشبورد:
 streamlit run dashboard.py
 فایل‌ها
