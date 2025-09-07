@@ -13,10 +13,14 @@
 1. نصب کتابخانه‌ها:
 ```bash
 pip install -r requirements.txt
-
-
-
 2. اجرای داشبورد:
+
+bash
+Copy code
+streamlit run dashboard.py
+
+
+
 streamlit run dashboard.py
 فایل‌ها
 
